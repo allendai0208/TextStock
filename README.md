@@ -1,7 +1,7 @@
 # TextStock
 Just getting into stocks? Don't know where to start? TextStock is an easily accessible, widely ranging platform for current stock and financial news. You'll never be kept out of the loop!
 
-How to use:
+How to use (Not available anymore):
 
 Send a text message to (623)-777-3881 and introduce yourself with a simple "hello"! You will receive the following instructions:
 
